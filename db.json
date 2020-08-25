@@ -1,9 +1,14 @@
 {
-  "posts": [
+  "clientes": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Life Club"
+    },
+        {
+      "id": 2,
+      "title": "Liberty"
     }
+
   ],
   "profile": {
     "name": "typicode"
