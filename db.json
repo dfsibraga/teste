@@ -8,7 +8,11 @@
       "id": 2,
       "title": "Liberty"
     }
-
+,
+        {
+      "id": 3,
+      "title": "Shape"
+    }
   ],
   "profile": {
     "name": "typicode"
