@@ -2,16 +2,16 @@
   "clientes": [
     {
       "id": 1,
-      "title": "Life Club"
+      "nome": "Life Club"
     },
         {
       "id": 2,
-      "title": "Liberty"
+      "nome": "Liberty"
     }
 ,
         {
       "id": 3,
-      "title": "Shape"
+      "nome": "Shape"
     }
   ],
   "profile": {
