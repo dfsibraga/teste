@@ -7,12 +7,15 @@
         {
       "id": 2,
       "nome": "Liberty"
-    }
-,
-        {
+    },
+    {
       "id": 3,
       "nome": "Shape"
-    }
+    },
+    {
+      "id": 4,
+      "nome": "KO"
+    }    
   ],
   "profile": {
     "name": "typicode"
